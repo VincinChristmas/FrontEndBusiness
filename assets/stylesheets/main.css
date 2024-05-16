@@ -1,0 +1,35 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    max-width: 100%;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  /******************************
+  *                             *
+  *   --INDEX.HTML STYLE--      *
+  *                             *
+  ******************************/
+
+
+  
+
+  /******************************
+  *                             *
+  *  --PROJECTS.HTML STYLE--    *
+  *                             *
+  ******************************/
+
+  .allPics {
+    border: 5px solid yellow;
+  }
+
+  .projectPic {
+    width: 35%;
+  }
+
