@@ -19,6 +19,7 @@
   .entrance {
     width: 30%;
     margin: 0 auto;
+    margin-top: 6%;;
     border: 2px solid rgb(111, 166, 226,.0.05);
     box-shadow: 0 5px 5px #50b8ec;
     outline: 0;
@@ -41,7 +42,7 @@
   }
 
   .introSentence {
-    font-size: 6.543em;
+    font-size: 2.134rem;
     margin-top: 0;
     color: #48385b
   }
@@ -62,11 +63,16 @@
   ******************************/
 
   .allPics {
-    border: 5px solid yellow;
+    width: 100%;
   }
 
   .projectPic {
-    width: 35%;
+    width: 30%;
+    border: 1px solid white;
+  }
+
+  .projectPic:hover {
+    opacity: 0.9;
   }
 
 
