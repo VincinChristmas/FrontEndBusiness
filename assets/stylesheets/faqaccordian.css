@@ -8,7 +8,9 @@
 
   body {
     font-size: 62.5%;
+    font-family: "Noto Serif", serif;
     background: #e4d6ec;
+    color: #301833;
   }
  
 
@@ -30,4 +32,55 @@
     border-radius: 7px;
     margin-bottom: 3rem;
   }
+
+  .starLogo {
+    float: left;
+    width: 7%;
+  }
+
+  .questions {
+    clear: right;
+    margin-left: 2.5rem;
+    font-size: 2.56em;
+    font-weight: 800;
+  }
+
+  .secondSentence {
+    margin-bottom: 1.5rem;
+  }
+
+  .secondSentenceTitle {
+    float: left;
+    line-height: 1.135rem;
+    width: 60%;
+  }
+
+  .minusLogo {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    clear: right;
+  }
+
+  .theOnlyParagraph {
+    font-size: 1.234em;
+    width: 65%;
+    line-height: 1.233rem;
+  }
+
+  .thirdSentence {
+    margin-top: 4rem;
+  }
+
+  .questionTwo {
+    float: left;
+    width: 60%;
+  }
+
+  .firstSymbolLogo {
+    clear: right;
+    margin-left: 2rem;
+    margin-top: 0.3rem;
+  }
+
+
   
