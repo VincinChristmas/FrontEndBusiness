@@ -63,17 +63,24 @@
   ******************************/
 
   .allPics {
+    text-align: center;
     width: 100%;
+    background: #42384e;
   }
 
   .projectPic {
     width: 30%;
     border: 1px solid white;
+    margin: 0.879rem;
   }
   
 
   .accodianPic {
    width: 32%
+  }
+
+  .qrcodepic {
+    width: 27%;
   }
 
   .projectPic:hover {
