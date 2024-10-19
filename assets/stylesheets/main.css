@@ -80,11 +80,17 @@
     margin: 0.879rem;
   }
   
-
-  
-
   .projectPic:hover {
     opacity: 0.9;
   }
 
+
+  @media all and (max-width: 860px) {
+    .allPics {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 100%;
+    }
+  } 
 
